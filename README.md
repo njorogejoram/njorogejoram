@@ -35,27 +35,20 @@ Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-📊 GitHub Statistics
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matata44&show_icons=true&theme=tokyonight&hide_border=true)
+<h2>📊 GitHub Statistics</h2>
 
-## 💻 Most Used Languages
+<img src="https://github-stats-extended.vercel.app/api?username=matata44&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matata44&layout=compact&theme=tokyonight&hide_border=true)
+<h2>💻 Most Used Languages</h2>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matata44&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=matata44&theme=tokyonight&hide_border=true)
 
-💻 Most Used Languages
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=matata44&layout=compact&theme=tokyonight&hide_border=true)
-
-🔥 Contribution Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=matata44&theme=tokyonight&hide_border=true)
 
 🚧 My Projects
 
