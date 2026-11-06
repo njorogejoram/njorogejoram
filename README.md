@@ -33,18 +33,6 @@ I'm a passionate developer from Nairobi, Kenya, interested in building modern, r
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=njorogejoram&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorogejoram&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=njorogejoram&theme=tokyonight&hide_border=true" width="500"/>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -54,6 +42,22 @@ I'm a passionate developer from Nairobi, Kenya, interested in building modern, r
 Explore my repositories to see what I'm building.
 
 ---
+
+## 📊 GitHub Statistics
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://ghstats.dev/api/card?username=njorogejoram)
+
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=njorogejoram&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=njorogejoram&theme=tokyonight&hide_border=true)
 
 ## 🌍 Connect With Me
 
