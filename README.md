@@ -1,5 +1,5 @@
 
-👋 Hey, I'm MATATA44 
+👋 Hey, I'm Joram Njoroge
 
 💻 Aspiring Full-Stack Developer 🚀
 
@@ -39,11 +39,11 @@ Tools
 
 <h2>📊 GitHub Statistics</h2>
 
-<img src="https://github-stats-extended.vercel.app/api?username=matata44&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img src="https://github-stats-extended.vercel.app/api?username=njorogejoram&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
 <h2>💻 Most Used Languages</h2>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matata44&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=njorogejoram&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 ## 🔥 Contribution Streak
 
@@ -77,7 +77,7 @@ More projects coming soon!
 
 ⭐ Thanks for visiting my profile!
 
-MATATA | Keep Learning. Keep Building. Keep Growing.
+Njoroge Joram | Keep Learning. Keep Building. Keep Growing.
 <!--
 **MATATA44/MATATA44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
