@@ -1,19 +1,22 @@
-👋 Hey, I'm MATATA44
 
-💻 Aspiring Full-Stack Developer
+👋 Hey, I'm MATATA44 
 
-Welcome to my GitHub profile! I'm passionate about technology, programming and building creative solutions.
+💻 Aspiring Full-Stack Developer 🚀
+
+I'm passionate about technology, programming and building creative solutions.
 
 🚀 About Me
 
-- 💻 I work with HTML, CSS, JavaScript and Java.
+- 💻 HTML, CSS, JavaScript and Java.
 - 🐍 Exploring Python and PHP.
-- ⚛️ Currently interested in learning React.
+- ⚛️ Interested in learning React.
 - 🗄️ Planning to learn MySQL.
-- 🎯 My goal is to become a skilled Full-Stack Developer.
+- 🎯 Working towards becoming a Full-Stack Developer.
 - 🌱 Always learning and improving.
 
-🛠️ Technologies & Skills
+🛠️ Technologies & Tools
+
+Languages
 
 "HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 "CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,15 +25,42 @@ Welcome to my GitHub profile! I'm passionate about technology, programming and b
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 "PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-📚 Currently Learning
+Currently Learning
 
 "React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 "MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+Tools
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=matata44&show_icons=true&theme=tokyonight&hide_border=true)
+
+💻 Most Used Languages
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=matata44&layout=compact&theme=tokyonight&hide_border=true)
+
+🔥 Contribution Streak
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=matata44&theme=tokyonight&hide_border=true)
+
+🚧 My Projects
+
+- 🌐 Web development projects.
+- ☕ Java programming projects.
+- 🐍 Python learning projects.
+- 🚀 Future React applications.
+
+More projects coming soon!
+
 🌐 Connect With Me
 
-- 🐦 X: "@Goat_matata__" (https://x.com/Goat_matata__)
-- 📸 Instagram: "@_matata44" (https://www.instagram.com/_matata44)
+""X" (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)" (https://x.com/Goat_matata__)
+""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/_matata44)
 
 💡 My Motto
 
@@ -38,6 +68,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming and b
 
 ⭐ Thanks for visiting my profile!
 
+MATATA | Keep Learning. Keep Building. Keep Growing.
 <!--
 **MATATA44/MATATA44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
